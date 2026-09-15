@@ -132,7 +132,7 @@ Actualmente se utiliza para proteger operaciones como:
 
 ## 🌐 Despliegue en producción
 
-El backend puede desplegarse utilizando plataformas como **Render** o **Railway**.
+El backend fue desplegado con **Render**.
 
 ### Configuración
 
